@@ -1,1 +1,0 @@
-# sunday-go-school
